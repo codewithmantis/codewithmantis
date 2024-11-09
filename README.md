@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mantis</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmantis&label=Profile%20views&color=00ff4c&style=plastic" alt="codewithmantis" /> </p>
+ <img align="right" width="100px" height="100px" src="https://www.bing.com/th/id/OGC.5bc11ed6eb8a8f8d3b1a1812d43effd5?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f668360%2fscreenshots%2f2011904%2fmantis800x600.gif&ehk=jLIhN3lTNams7slhaBlq0PmzRPyOf0Y6elVuBfWE%2fek%3d"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,6 +9,7 @@
 <a href="https://discord.gg/https://discord.gg/thhHeXAp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/thhHeXAp" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
+<br/>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
