@@ -35,7 +35,7 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
     </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmantis&show_icons=true&theme=dark&title_color=00e60f&locale=en&layout=compact" alt="codewithmantis" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmantis&show_icons=true&theme=dark&title_color=00e60f&locale=en" alt="codewithmantis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithmantis&show_icons=true&theme=dark&title_color=00e60f&text_color=00e60f&locale=en" alt="codewithmantis" /></p>
 
