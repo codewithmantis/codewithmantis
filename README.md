@@ -1,7 +1,6 @@
 
 <h1 align="center">codewithmantis</h1>
 <h3 align="center">A frontend developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmantis&label=Profile%20views&color=00ff4c&style=plastic" alt="codewithmantis" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://youtube.com/codewithmantis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/codewithmantis" height="30" width="40" /></a>
