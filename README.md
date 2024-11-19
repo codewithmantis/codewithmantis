@@ -29,5 +29,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
     </a>
 <p>
-    <img width="500px" src="https://github.com/codewithmantis/avatar_pic/blob/main/mantis_pxel-removebg-preview.png"/>
-</p></p>
+    <img width="200px" src="https://github.com/codewithmantis/avatar_pic/blob/main/mantis_pxel-removebg-preview.png"/>
+</p>
+
+<h1>About me</h1>
+<p>Life - I am a teenager and i am self thought coder.</p>
+<p>Code - I started coding at the age of 12 and i have mostly done web dev and game dev with some robotics.</p>
+<p>Social Media - i have created a discord and youtube so if your interested make sure to check them.</p>
+<p>Future - looking forward to advance my skills inorder to obtain a good paying job.</p>
+
+</p>
