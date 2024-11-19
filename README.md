@@ -28,4 +28,6 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
     </a>
-</p>
+<p>
+    <img src="https://media.tenor.com/kafLbBOliEAAAAAM/the-beetles-praying-mantis.gif"/>
+</p></p>
