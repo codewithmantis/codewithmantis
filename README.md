@@ -1,11 +1,3 @@
-
-<h1 align="center">codewithmantis</h1>
-<h3 align="center">A frontend developer</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://youtube.com/codewithmantis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/codewithmantis" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/thhHeXAp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/thhHeXAp" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <p align="left">
@@ -32,5 +24,8 @@
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
     </a>
 </p>
