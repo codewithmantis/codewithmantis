@@ -29,5 +29,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
     </a>
 <p>
-    <img src="https://media.tenor.com/kafLbBOliEAAAAAM/the-beetles-praying-mantis.gif"/>
+    <img width="500px" src="https://tse2.mm.bing.net/th?id=OIG4.KrKEAUfM8DXOGKwE2D7h&pid=ImgGn"/>
 </p></p>
