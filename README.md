@@ -29,5 +29,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
     </a>
 <p>
-    <img width="500px" src="https://tse2.mm.bing.net/th?id=OIG4.KrKEAUfM8DXOGKwE2D7h&pid=ImgGn"/>
+    <img width="500px" src="https://github.com/codewithmantis/avatar_pic/blob/main/mantis_pxel-removebg-preview.png"/>
 </p></p>
